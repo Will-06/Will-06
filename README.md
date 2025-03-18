@@ -19,3 +19,6 @@
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,react,vue,flutter)](https://skillicons.dev)
