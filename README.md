@@ -21,4 +21,4 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,idea,java,kotlin,laravel,linux,mysql,mongodb,pr)](https://skillicons.dev)
