@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <!-- Imagen a la izquierda -->
-  <img src="https://drive.google.com/uc?id=1jATnbGYJzCf6vqpHAywmjzyE7RzvVaQs" alt="Mi Foto">
+  <img src="https://drive.google.com/uc?id=1C8diWt_NLdBsOETRP5Rmsz-WRtV6L5mw" alt="Mi Foto">
 
   <!-- Poema a la derecha -->
   <div style="max-width: 500px;">
